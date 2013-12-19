@@ -1,0 +1,5 @@
+{
+    version: "1.0",
+    url: "https://gist.github.com/zlalanne/8046921/raw/52b37d3399fa033aa65dfc44f606abfe63584d7c/which.ps1",
+    bin: "which.ps1"
+}
