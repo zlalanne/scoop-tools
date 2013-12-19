@@ -1,5 +1,5 @@
 {
-    version: "1.0",
-    url: "https://gist.github.com/zlalanne/8046921/raw/52b37d3399fa033aa65dfc44f606abfe63584d7c/which.ps1",
+    version: "1.1",
+    url: "https://gist.github.com/zlalanne/8046921/raw/2a57d1e1724bd426c123b11d9d2dc0d81b3455ca/which.ps1",
     bin: "which.ps1"
 }
